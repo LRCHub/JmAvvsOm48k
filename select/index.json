@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "冒険の書(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-21T01:58:42.954292Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険の書",
+      "artist": "*Luna feat. ゆある",
+      "has_synced": false,
+      "path": "select/pl_01_冒険の書_Luna_feat._ゆある.txt"
+    }
+  ]
+}
